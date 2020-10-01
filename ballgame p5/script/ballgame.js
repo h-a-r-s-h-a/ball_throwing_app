@@ -79,7 +79,7 @@ function pass(){
 
   stroke(0);
     
-    fill(0,255,0);
+    fill(0,250,0);
     ellipse(graph_x,graph_y,8,8);
     graph_x = graph_x + 30;
     line(graph_x-30,graph_y+8,graph_x-30,500);
